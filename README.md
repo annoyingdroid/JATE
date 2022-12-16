@@ -2,7 +2,7 @@
 Just Another Text Editor
 
 ## Description
-A web based notpad application
+A web based notepad application
 
 ## Deployment
 This application will be deployed via Heroku
